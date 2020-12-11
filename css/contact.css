@@ -1,0 +1,30 @@
+.contact tr{
+    height: 5rem;
+}
+.contact th{
+    width: 150px;
+    height: 7rem;
+}
+input.hoge{
+    width: 480px;
+}
+.bottan{
+    color:white;
+    background-color: steelblue;
+    border-style: none;
+}
+.bottan:hover{
+    opacity: 0.5;
+}
+.side_menu li:hover{
+    opacity: 0.6;
+}
+.side_menu .chose{
+    background-color:#FCE8E7;
+}
+.side_menu .chose a{
+    color: black;
+}
+.name{
+    width: 480px;
+}
